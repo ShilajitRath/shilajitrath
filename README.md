@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Data Science, Machine Learning, Artifical Intellegence and little bit of Mathematics and Physics.**
 
-- 📫 How to reach me **shilajitrath@gmail.com**
+- 📫 How to reach me **shilajitrath01@gmail.com**
 
 - ⚡ Fun fact **I have a quantum mechanics joke. It's both funny and not funny at the same time.**
 
