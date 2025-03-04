@@ -9,11 +9,12 @@ In the future, I hope to use my skills and knowledge to make a positive impact i
 <p align="left"> <img src="https://wallpaperaccess.com/full/1325192.jpg" /> </p>
 - 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **Data Science, Machine Learning, Artifical Intellegence and little bit of Mathematics and Physics.**
+- 💬 Ask me about **Data Science, Machine Learning, Artificial Intelligence, and a little bit of Mathematics and Physics.**
 
-- 📫 How to reach me **shilajitrath01@gmail.com**
+- 📫 How to reach me : **shilajitrath01@gmail.com**
 
-- ⚡ Fun fact **I have a quantum mechanics joke. It's both funny and not funny at the same time.**
+- ⚡ Fun fact : **I have a quantum mechanics joke. It's both funny and not funny at the same time.**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
