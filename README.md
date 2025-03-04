@@ -1,6 +1,10 @@
 [![MasterHead](https://frogdesign.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2020/08/04192430/AI_designing-with-data.gif)](https://shilajitrath.io)
 <h1 align="center">Hi 👋, I'm Shilajit Rath</h1>
-<h3 align="center">As a data science enthusiast with a background in Mathematics and Computer Science. I am passionate about using data-driven approaches to solve real-world problems. My areas of expertise include machine learning, data analysis, and data visualization, and I have experience working with a variety of tools and technologies including Python, SQL, R and Power BI. Currently , I'am persuing my masters from Institute of Mathematics and Aplication, Bhubaneswar where i have learned several courses like Linear algebra, Probability, Machine learning, Statistics, Deep Learning, Data Analysis etc. In the future, I hope to use my skills and knowledge to make a positive impact in a career as a data scientist.</h3>
+<h3 align="center">As a data science enthusiast with a background in Mathematics and Computer Science, I am passionate about using data-driven approaches to solve real-world problems. My areas of expertise include machine learning, data analysis, and data visualization, and I have experience working with a variety of tools and technologies, including Python, SQL, R, and Power BI.
+
+Currently, I am pursuing my master's at the Institute of Mathematics and Applications, Bhubaneswar, where I have learned several courses such as Linear Algebra, Probability, Machine Learning, Statistics, Deep Learning, and Data Analysis.
+
+In the future, I hope to use my skills and knowledge to make a positive impact in a career as a data scientist.</h3>
 
 <p align="left"> <img src="https://wallpaperaccess.com/full/1325192.jpg" /> </p>
 - 🌱 I’m currently learning **Machine Learning**
